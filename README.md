@@ -26,7 +26,7 @@ Did you know? There are currently 180 different currencies recognized by the Uni
     ```
 2. **Navigate to the project directory**:
     ```bash
-    cd currency-converter
+    cd Currency-Converter
     ```
 3. **Install dependencies**:
     ```bash
@@ -40,6 +40,10 @@ Did you know? There are currently 180 different currencies recognized by the Uni
 ## Usage 📖
 
 Simply select the currencies you want to convert from and to, enter the amount, and get the converted value instantly!
+
+## Try it Out 🌐
+
+Check out the live version of the Currency Converter here: [Live Demo](https://gagankj.github.io/Currency-Convertor/)
 
 ## Contributing 🤝
 
